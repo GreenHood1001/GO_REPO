@@ -1,8 +1,9 @@
-package hello
+package main
 
 import (
-	"example.com/greetings"
 	"fmt"
+
+	"example.com/greetings"
 )
 
 func main() {
